@@ -1,0 +1,18 @@
+{
+  "OrderID": [
+    {
+      "type": "phone",
+      "name": "Nokia G11 Plus",
+      "colour": "yellow",
+      "qantity": "1",
+      "price": "1000"
+    },
+    {
+      "type": "phone",
+      "name": "Nokia G11 Plus",
+      "colour": "yellow",
+      "qantity": "1",
+      "price": "1000"
+    }
+  ]
+}
